@@ -1,0 +1,27 @@
+﻿{
+  "name": "com.unity.appsflyer",
+  "version": "1.0.0",
+  "displayName": "Unity AppsFlyer Service",
+  "description": "AppsFlyer Attribution, In-App Analytics & Impression-Level Ad Revenue Tracking for Unity Core Framework.",
+  "unity": "2021.3",
+  "keywords": [
+    "unity",
+    "appsflyer",
+    "attribution",
+    "tracking",
+    "analytics",
+    "ad-revenue",
+    "deep-link"
+  ],
+  "author": {
+    "name": "thoxuong92",
+    "url": "https://github.com/thoxuong92"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thoxuong92/com.unity.appsflyer.git"
+  },
+  "dependencies": {
+    "com.unity.core": "1.0.0"
+  }
+}

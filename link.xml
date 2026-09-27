@@ -1,6 +1,5 @@
-<linker>
+﻿<linker>
   <assembly fullname="AppsFlyer" preserve="all"/>
   <assembly fullname="AppsFlyerSDK" preserve="all"/>
-  <assembly fullname="WASD.AppsFlyer" preserve="all"/>
-  <assembly fullname="WASD.AppsFlyer.Editor" preserve="all"/>
+  <assembly fullname="Unity.AppsFlyer" preserve="all"/>
 </linker>

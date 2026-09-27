@@ -1,4 +1,4 @@
-﻿# Unity AppsFlyer Service (UPM Package)
+# Unity AppsFlyer Service (UPM Package)
 
 Package module tích hợp giải pháp phân bổ người dùng (**Attribution Tracking**), đo lường chuyển đổi (**In-App Events**), liên kết sâu (**Deep Linking**) và theo dõi doanh thu quảng cáo (**Impression-Level Ad Revenue**) từ **AppsFlyer** cho **Unity Core Framework**.
 
@@ -68,4 +68,5 @@ AnalyticsService.LogEvent("af_purchase", new Dictionary<string, object>
 ---
 
 ## 👨‍💻 Tác Giả & Bản Quyền
+- **Tác giả**: **joukyuu**
 - **Repository**: [thoxuong92/com.unity.appsflyer](https://github.com/thoxuong92/com.unity.appsflyer.git)

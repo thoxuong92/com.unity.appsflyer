@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "com.unity.appsflyer",
   "version": "1.0.0",
   "displayName": "Unity AppsFlyer Service",
@@ -14,7 +14,7 @@
     "deep-link"
   ],
   "author": {
-    "name": "thoxuong92",
+    "name": "joukyuu",
     "url": "https://github.com/thoxuong92"
   },
   "repository": {
